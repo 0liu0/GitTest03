@@ -12,5 +12,6 @@ public class GitTest {
         System.out.println("你好贱贱哦 在我前面提交代码");
         System.out.println("你个煞笔 敲得这么慢 去你的吧 mad 滚！");
         System.out.println("加班终于结束了 结束了今天的旅程");
+        System.out.println("刚刚删库跑路了 现在被抓了");
     }
 }
