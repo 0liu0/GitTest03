@@ -8,5 +8,6 @@ public class GitTest {
         System.out.println("Hello Movie");
         System.out.println("Hello hot-fix");
         System.out.println("合并最终的结果！！！");
+        System.out.println("我在GitHub上面改了你的代码哦！！！");
     }
 }
